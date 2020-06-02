@@ -1,0 +1,9 @@
+24/0572020-3:35 am
+-comienzo el proyecto
+-busco las imagenes
+{
+enlance servicio:pagina con los 3 servicios
+
+enlace "ver":mostrar cada uno del servicio particular
+}
+

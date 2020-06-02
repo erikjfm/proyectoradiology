@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagnostico por imagen</title>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css-rx/normalize.css">
+    <link rel="stylesheet" href="css-rx/style.css">
+</head>
+
+<body>
+    <header class="site-header inicio">
+        <div class="contenedor">
+            <div class="barra">
+                <div class="logo-text">
+                    <a href="/">
+                        <img class="logo" width="100px" src="img-rx/logo3.png" alt="imagen logo">
+                        <p>Clinica Azul</p>
+                    </a>
+                </div>
+                <nav class="navegacion">
+                    <a target="_blank" href="#">inicio</a>
+                    <a target="_blank" href="#">solicitud de turnos</a>
+                    <a target="_blank" href="#">estudios</a>
+                    <a target="_blank" href="#">sedes</a>
+                    <a target="_blank" href="#">horarios</a>
+                    <a target="_blank" href="#">contacto</a>
+                </nav>
+            </div>
+            <!--barra-->
+        </div>
+    </header>
+    <section class="page-title">
+        <h1>DIAGNÓSTICO POR IMÁGENES</h1>
+    </section>
+    <main class="seccion">
+
+        <h2 class="titulo-servi">Servicios</h2>
+        <div class="color-min">
+            <div class="contenedor-servicios contenedor">
+                <div class="servicio">
+                    <img class="img-servi" src="img-rx/rx-craneo.jpg" alt="imagen creaneo rx">
+
+                    <div class="contenido-servicio">
+                        <h3>Radiologia</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet saepe, voluptas et mollitia dolorum provident nostrum quas sequi quo laudantium, dolore maxime exercitationem, omnis quam harum iure inventore molestiae quisquam.</p>
+                        <a href="#">ver</a>
+                    </div>
+                </div>
+                <div class="servicio">
+                    <img class="img-servi" src="img-rx/tac-craneo.jpg" alt="imagen craneo tac">
+
+                    <div class="contenido-servicio">
+                        <h3>Tomografia</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore eligendi, eaque a temporibus totam dolorem molestiae ipsum harum eos, esse nobis officiis. Facere eius ullam iure sapiente illo cum ut.</p>
+                        <a href="#" class="p-tomo">ver</a>
+                    </div>
+                </div>
+                <div class="servicio">
+                    <img class="img-servi" src="img-rx/rmn-craneo.jpg" alt="imagen creaneo rm">
+
+                    <div class="contenido-servicio">
+                        <h3>Resonancia</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus esse architecto sunt, quaerat pariatur quod, temporibus vitae magnam excepturi nostrum praesentium dicta eveniet delectus quos aperiam quasi, numquam dolorum ratione?</p>
+                        <a href="#">ver</a>
+                    </div>
+                </div>
+            </div>
+            <!--contenedor-servicios-->
+        </div>
+    </main>
+    <div class="titulo-bienvenido seccion">
+        <h2>Bienvenido a Diagnostico por imagenes</h2>
+    </div>
+    <section class="imagen-bienvenido seccion">
+        <div class="contenido-bienvenido">
+            <div>
+                <p class="num-bienv">+45.000</p>
+                <p class="text-bienv">Pacientes Felices</p>
+            </div>
+            <div>
+                <p class="num-bienv">+155</p>
+                <p class="text-bienv">Profecionales</p>
+            </div>
+            <div>
+                <p class="num-bienv">4</p>
+                <p class="text-bienv">Equipos</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <nav class="navegacion">
+            <a target="_blank" href="#">inicio</a>
+            <a target="_blank" href="#">solicitud de turnos</a>
+            <a target="_blank" href="#">estudios</a>
+            <a target="_blank" href="#">sedes</a>
+            <a target="_blank" href="#">horarios</a>
+            <a target="_blank" href="#">contacto</a>
+            <p>&Ecirc;</p>
+        </nav>
+    </footer>
+
+</body>
+
+</html>
